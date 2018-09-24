@@ -12,7 +12,7 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#475577",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "ShrinkUp Home",
+        "meta_descr": "ShrinkUp Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -319,7 +319,7 @@
             "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -435,8 +435,8 @@
             }
           },
           "_params": {
-            "showTitle": false,
-            "showText": true,
+            "showTitle": true,
+            "showText": false,
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
@@ -475,8 +475,8 @@
               "size": 250
             }
           },
-          "title": "<a href=\"https://www.youtube.com/watch?v=nwoUadtEzfM\" target=\"_blank\">ShrinkUp Tutorial&nbsp;</a><br><a href=\"https://www.youtube.com/watch?v=nwoUadtEzfM\" target=\"_blank\">on YouTube</a>",
-          "text": "<b>ShrinkUp Tutorial on YouTube</b>",
+          "title": "<a href=\"https://www.youtube.com/watch?v=nwoUadtEzfM\" target=\"_blank\" class=\"text-info\">ShrinkUp Tutorial</a><br>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -506,7 +506,7 @@
           "_tags": [
             "Theme"
           ],
-          "text": "Follow Us",
+          "text": "<span style=\"font-weight: normal;\">Follow Us</span>",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ShrinkUpSupport\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/shrinkupapp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/2/117889387694925502588\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UChzSrUmOI6suIaZPDEdM8qA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-6"
@@ -794,7 +794,8 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#475577"
             }
           },
           "_anchor": "page2-content1-0",
@@ -810,7 +811,8 @@
           "_name": "features6",
           "_styles": {
             "H4": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "color": "#475577"
             }
           },
           "_anchor": "download-features6-0",
