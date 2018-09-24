@@ -430,12 +430,13 @@
               "color": "#28262b"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#475577",
+              "font-size": "16px"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
@@ -474,8 +475,8 @@
               "size": 250
             }
           },
-          "title": "ShrinkUp Tutorial&nbsp;<br>on YouTube",
-          "text": "",
+          "title": "<a href=\"https://www.youtube.com/watch?v=nwoUadtEzfM\" target=\"_blank\">ShrinkUp Tutorial&nbsp;</a><br><a href=\"https://www.youtube.com/watch?v=nwoUadtEzfM\" target=\"_blank\">on YouTube</a>",
+          "text": "<b>ShrinkUp Tutorial on YouTube</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
