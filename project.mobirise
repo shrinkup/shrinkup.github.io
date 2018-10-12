@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.4",
-    "uniqCompNum": 7,
+    "uniqCompNum": 27,
     "versionPublish": "4.8.3",
     "name": "ShrinkUp",
     "theme": {
@@ -23,7 +23,10 @@
         "isScrollToTopButton": true,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#405980",
+        "#f2f2f2"
+      ]
     },
     "favicon": "",
     "noImageResize": "",
@@ -100,8 +103,8 @@
             }
           },
           "title": "ShrinkUp",
-          "text": "Shrink phone photos and videos to store 3-4 times as many photos and videos in the same phone without using any extra RAM or storage cards.\u0016\u0016<br>(Patent Pending)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#index-features3-0\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "<a href=\"working.html\">Shrink phone photos and videos to store 12 times as many photos and videos in the same phone without using any extra RAM or storage cards. </a>&nbsp;\u0016<br>(Patent Pending)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"working.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -250,7 +253,7 @@
                 "showTitle": true,
                 "title": "Shrink",
                 "showText": true,
-                "text": "Shrink phone photos and videos to 1/3rd or 1/4th​ of their size without any visible difference in quality.",
+                "text": "Shrink phone photos and videos to 1/10th​ of their size without any visible difference in quality.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
@@ -325,7 +328,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -346,9 +349,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Shrink",
+          "title1": "<a href=\"page3.html\">Shrink</a>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Shrink the size of photos by upto 10 times and that of videos on your phone by 2 to 3 times without any visible loss in quality.",
+          "caption1": "Shrink the size of photos by upto 15 times and that of videos on your phone by 10-12 times without any visible loss in quality.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -445,7 +448,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/bg5.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/nwoUadtEzfM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
@@ -584,7 +587,8 @@
         "meta_descr": "ShrinkUp License",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -593,9 +597,18 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f2f2f2"
           },
-          "text": "<h2><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\"><br></span></h2><h2><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">ShrinkUp Terms of Service and Privacy Policy</span></h2><p><br></p><p>1. Terms</p><p>By downloading and using ShrinkUp mobile application and accessing the web site at http://www.shrinkup.com, you are  agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree  that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms,  you are prohibited from using this mobile application or accessing this site. The materials contained in this web  site are protected by applicable copyright and trademark law.</p><p><br></p><p>2. Use License</p><p>Permission is granted to temporarily download the ShrinkUp mobile application or a copy of the materials (information  or software) on ShrinkUp's web site for personal, non-commercial transitory viewing only. This is the grant of a  license, not a transfer of title, and under this license you may not:&nbsp;</p><p>- modify or copy the materials;</p><p>- use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</p><p>- attempt to decompile or reverse engineer the mobile application or any software contained on ShrinkUp's web site;</p><p>- remove any copyright or other proprietary notations from the materials; or</p><p>- transfer the materials to another person or \"mirror\" the materials on any other server.</p><p><br></p><p>This license shall automatically terminate if you violate any of these restrictions and may be terminated by ShrinkUp  at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy  any downloaded materials in your possession whether in electronic or printed format.</p><p><br></p><p>3. Disclaimer</p><p>The ShrinkUp mobile application and software on ShrinkUp's web site are provided \"AS IS\". ShrinkUp makes no warranties,  expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties  or conditions of merchantability, fitness for a particular purpose, or non- infringement of intellectual property or other  violation of rights. Further, ShrinkUp does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of ShrinkUp mobile application or of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.</p><p><br></p><p>4. Limitations</p><p>In no event shall ShrinkUp authors be liable for any damages (including, without limitation, damages for loss of data or  profit, or due to business interruption,) arising out of the use or inability to use the ShrinkUp mobile application or  materials on ShrinkUp's Internet site, even if ShrinkUp or a ShrinkUp authorized representative has been notified orally  or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties,  or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p><p><br></p><p><br></p><p>5. Revisions and Errata</p><p>The materials appearing on ShrinkUp mobile application or its web site could include technical, typographical, or photographic  errors. ShrinkUp does not warrant that any of the materials on its mobile application or its web site are accurate, complete,  or current. ShrinkUp may make changes to the materials contained on its web site at any time without notice. ShrinkUp does not,  however, make any commitment to update the materials.</p><p><br></p><p>6. Links</p><p>ShrinkUp has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such  linked site. The inclusion of any link does not imply endorsement by ShrinkUp of the site. Use of any such linked web site is  at the user's own risk.</p><p><br></p><p>7. Site Terms of Use Modifications</p><p>ShrinkUp may revise these terms of use for its mobile application and its web site at any time without notice. By using this  mobile application and web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.</p><p><br></p><p>8. Governing Law</p><p>Any claim relating to ShrinkUp's mobile application and web site shall be governed by the laws of India without regard to its conflict of law provisions.</p><p><br></p><p><br></p><p>9. Privacy Policy</p><p>Your privacy is important to us, and it is ShrinkUp's policy to respect your privacy regarding any information we may collect  while operating our website or mobile application. Accordingly, we have developed this Policy in order for you to understand  how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p><p><br></p><p>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for  other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes. We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the  individual concerned. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary  for those purposes, should be accurate, complete, and up-to-date. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. We will make readily available to customers information about our policies and practices relating to the management of  personal information. We are committed to conducting our business in accordance with these principles in order to ensure that  the confidentiality of personal information is protected and maintained. ShrinkUp may change its Privacy Policy from time to time, and at ShrinkUp's sole discretion.</p><p><br></p><p><br></p><p>Copyright 2016 www.shrinkup.com, All rights reserved.</p><p>Website: http://www.shrinkup.com/</p><p>Email: <a href=\"mailto:support@shrinkup.com\">support@shrinkup.com</a></p>"
+          "text": "<h2><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\"><br></span></h2><h2><span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">ShrinkUp Terms of Service and Privacy Policy</span></h2><p><br></p><p>1. Terms</p><p>By downloading and using ShrinkUp mobile application and accessing the web site at http://www.shrinkup.com, you are  agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree  that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms,  you are prohibited from using this mobile application or accessing this site. The materials contained in this web  site are protected by applicable copyright and trademark law.</p><p><br></p><p>2. Use License</p><p>Permission is granted to temporarily download the ShrinkUp mobile application or a copy of the materials (information  or software) on ShrinkUp's web site for personal, non-commercial transitory viewing only. This is the grant of a  license, not a transfer of title, and under this license you may not:&nbsp;</p><p>- modify or copy the materials;</p><p>- use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</p><p>- attempt to decompile or reverse engineer the mobile application or any software contained on ShrinkUp's web site;</p><p>- remove any copyright or other proprietary notations from the materials; or</p><p>- transfer the materials to another person or \"mirror\" the materials on any other server.</p><p><br></p><p>This license shall automatically terminate if you violate any of these restrictions and may be terminated by ShrinkUp  at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy  any downloaded materials in your possession whether in electronic or printed format.</p><p><br></p><p>3. Disclaimer</p><p>The ShrinkUp mobile application and software on ShrinkUp's web site are provided \"AS IS\". ShrinkUp makes no warranties,  expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties  or conditions of merchantability, fitness for a particular purpose, or non- infringement of intellectual property or other  violation of rights. Further, ShrinkUp does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of ShrinkUp mobile application or of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.</p><p><br></p><p>4. Limitations</p><p>In no event shall ShrinkUp authors be liable for any damages (including, without limitation, damages for loss of data or  profit, or due to business interruption,) arising out of the use or inability to use the ShrinkUp mobile application or  materials on ShrinkUp's Internet site, even if ShrinkUp or a ShrinkUp authorized representative has been notified orally  or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties,  or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p><p><br></p><p><br></p><p>5. Revisions and Errata</p><p>The materials appearing on ShrinkUp mobile application or its web site could include technical, typographical, or photographic  errors. ShrinkUp does not warrant that any of the materials on its mobile application or its web site are accurate, complete,  or current. ShrinkUp may make changes to the materials contained on its web site at any time without notice. ShrinkUp does not,  however, make any commitment to update the materials.</p><p><br></p><p>6. Links</p><p>ShrinkUp has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such  linked site. The inclusion of any link does not imply endorsement by ShrinkUp of the site. Use of any such linked web site is  at the user's own risk.</p><p><br></p><p>7. Site Terms of Use Modifications</p><p>ShrinkUp may revise these terms of use for its mobile application and its web site at any time without notice. By using this  mobile application and web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.</p><p><br></p><p>8. Governing Law</p><p>Any claim relating to ShrinkUp's mobile application and web site shall be governed by the laws of India without regard to its conflict of law provisions.</p><p><br></p><p><br></p><p>9. Privacy Policy</p><p>Your privacy is important to us, and it is ShrinkUp's policy to respect your privacy regarding any information we may collect  while operating our website or mobile application. Accordingly, we have developed this Policy in order for you to understand  how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p><p><br></p><p>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for  other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes. We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the  individual concerned. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary  for those purposes, should be accurate, complete, and up-to-date. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. We will make readily available to customers information about our policies and practices relating to the management of  personal information. We are committed to conducting our business in accordance with these principles in order to ensure that  the confidentiality of personal information is protected and maintained. ShrinkUp may change its Privacy Policy from time to time, and at ShrinkUp's sole discretion.</p><p><br></p><p><br></p><p>Copyright 2016 www.shrinkup.com, All rights reserved.</p><p>Website: http://www.shrinkup.com/</p><p>Email: <a href=\"mailto:support@shrinkup.com\">support@shrinkup.com</a></p>",
+          "_styles": {
+            "H2": {
+              "color": "#405980",
+              "font-size": "48px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -787,14 +800,15 @@
         "meta_descr": "ShrinkUp Server Apps",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "25px",
+              "font-size": "17px",
               "color": "#475577"
             }
           },
@@ -802,7 +816,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f2f2f2"
           },
           "text": "<p>SHrOME</p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">Download Windows and Mac Apps</span></p><p><br></p><p>You can use ShrinkUp server apps for Windows and Mac  to backup your photos and videos on to a desktop running in the same WiFi network as your device.</p>"
         },
@@ -829,7 +843,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1105,6 +1119,509 @@
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ShrinkUp</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-slider-0\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-features3-0\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-3\">TUTORIAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-contacts4-0\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"download.html\">DOWNLOAD DESKTOP APPS</a></li>"
+        }
+      ]
+    },
+    "working.html": {
+      "settings": {
+        "title": "Shrink",
+        "meta_descr": "How Does it Work",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#405980",
+              "text-align": "center",
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Shrink photos by upto 15X and Videos by 12X",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Representative original and shrunk photos and videos from a 64 GB phone with Android 7 &nbsp;are shown below. ShrinkUp is being used with all its default settings.&nbsp;</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-j"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Shrunk,Image1",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180506-171719-hdr-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180506-171719-hdr-2000x1500-800x601.jpg",
+                "alt": "Original Image - 2.6 MB",
+                "title": "Original Image (2.6 MB)",
+                "caption": "Original HDR Image - 2.7 MB",
+                "active": false
+              },
+              {
+                "tags": "Original , Image1",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180506-171719-hdr-1-1080x810.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180506-171719-hdr-1-1080x810-800x600.jpg",
+                "alt": "Shrunk Image (236 KB)",
+                "title": "Shrunk Image (236 KB)",
+                "caption": "Shrunk Image - 236 KB &nbsp;(11.6X Smaller)",
+                "active": false
+              },
+              {
+                "tags": "Shrunk, Image1",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180804-173402-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180804-173402-2000x1500-800x600.jpg",
+                "alt": "Original Image (1.95 MB)",
+                "title": "Original Image (1.95 MB)",
+                "caption": "Original Image - 2 MB",
+                "active": false
+              },
+              {
+                "tags": "Original, Image2",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180804-173402-1-1080x810.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180804-173402-1-1080x810-800x600.jpg",
+                "alt": "Shrunk Image (166 KB)",
+                "title": "Shrunk Image (166 KB)",
+                "caption": "Shrunk Image - 166 KB (12x Smaller)",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "gallery4-k"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Shrunk, Image2",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180902-162117-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180902-162117-2000x1500-800x600.jpg",
+                "alt": "Original Image (4.32 MB)",
+                "title": "Original Image (4.32 MB)",
+                "caption": "Original Image - 4.3 MB",
+                "active": true
+              },
+              {
+                "tags": "Original, Image3",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180902-162117-1-1080x810.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180902-162117-1-1080x810-800x600.jpg",
+                "alt": "Shrunk Image (304 KB)",
+                "title": "Shrunk Image (304 KB)",
+                "caption": "Shrunk Image -304 KB (14.5X Smaller)",
+                "active": false
+              },
+              {
+                "tags": "Shrunk, Image3",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/-un1DyZmBVY",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2018-10-09-01-18-08-771-com.miui.videoplayer-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2018-10-09-01-18-08-771-com.miui.videoplayer-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Original Video - 25.6 MB",
+                "active": false
+              },
+              {
+                "tags": "Shrunk,Video1",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/cpN0o48r9G0",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2018-10-09-01-20-01-740-com.miui.videoplayer-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2018-10-09-01-20-01-740-com.miui.videoplayer-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Shrunk Video - 2MB (12.8X Smaller)",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "gallery4-o"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#405980"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ShrinkUp can easily add 23 GB more to a 64 GB phone",
+          "text": "<p>Graph on the left below shows a Xiaomi Redmi Note4 (64 GB) phone with around 37.1% of space (24.9 GB) occupied by photos and videos. ShrinkUp can reduce the space taken up by photos from 2.7 GB to 0.21 GB (reduction of 12.7X). It can reduce space taken up videos from 22.2 GB to 1.7 GB ( reduction of 12.8X).</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-q"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/64-gb-redmi-note-4-before-shrinkup-617x380.png",
+                "thumb": "@PROJECT_PATH@/assets/images/64-gb-redmi-note-4-before-shrinkup-617x380-617x380.png",
+                "alt": "64 GB Phone Before ShrinkUp",
+                "title": "64 GB Phone Before ShrinkUp",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/64-gb-redmi-note4-after-shrinkup-616x381.png",
+                "thumb": "@PROJECT_PATH@/assets/images/64-gb-redmi-note4-after-shrinkup-616x381-616x381.png",
+                "alt": "64 GB After ShrinkUp",
+                "title": "64 GB After ShrinkUp",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-i"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".navbar-toggler": {
+              "color": "#475577"
+            },
+            ".link, .dropdown-item": {
+              "color": "#475577"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#475577",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#475577"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#475577",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/146201576738920.gif",
+              "height": 128,
+              "alt": "ShrinkUp",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ShrinkUp</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-slider-0\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-features3-0\" aria-expanded=\"false\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-3\" aria-expanded=\"false\">TUTORIAL</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-contacts4-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"download.html\">DOWNLOAD DESKTOP APPS</a></li>",
+          "_anchor": "menu-8"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#475577",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 <a href=\"http://www.shrinkup.com\">www.shrinkup.com</a>&nbsp;<a href=\"license.html\">Terms of Use  |  Privacy Policy</a>",
+          "_anchor": "footer1-9"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#475577",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "<span style=\"font-weight: normal;\">Follow Us</span>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ShrinkUpSupport\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/shrinkupapp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/2/117889387694925502588\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UChzSrUmOI6suIaZPDEdM8qA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-d"
+        },
+        {
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            "UL": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#475577",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contacts</b></span></font><br>\nEmail: <a href=\"mailto:support@shrinkup.com\">support@shrinkup.com</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Links</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://play.google.com/store/apps/details?id=com.shrinkup.android\" target=\"_blank\"><b>Download ShrinkUp from Google Play</b></a><a href=\"https://play.google.com/store/apps/details?id=com.shrinkup.android\"><b></b></a><a class=\"text-white\" href=\"https://play.google.com/apps/testing/com.shrinkup.android\"><b></b></a></li><li><a class=\"text-white\" href=\"download.html\"><b>Download Server App for Windows</b></a></li><li><a class=\"text-white\" href=\"download.html\"><b>Download Server App for Mac</b></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@shrinkup.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "_anchor": "contacts4-e"
         }
       ]
     }
