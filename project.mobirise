@@ -492,6 +492,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
